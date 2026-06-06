@@ -1,0 +1,14 @@
+C:\Ходжаева\zd1_Hojaeva\zd1_Hojaeva\obj\Debug\net8.0\zd1_Hojaeva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ходжаева\zd1_Hojaeva\zd1_Hojaeva\obj\Debug\net8.0\zd1_Hojaeva.AssemblyInfoInputs.cache
+C:\Ходжаева\zd1_Hojaeva\zd1_Hojaeva\obj\Debug\net8.0\zd1_Hojaeva.AssemblyInfo.cs
+C:\Ходжаева\zd1_Hojaeva\zd1_Hojaeva\obj\Debug\net8.0\zd1_Hojaeva.csproj.CoreCompileInputs.cache
+C:\Ходжаева\zd1_Hojaeva\zd1_Hojaeva\bin\Debug\net8.0\zd1_Hojaeva.exe
+C:\Ходжаева\zd1_Hojaeva\zd1_Hojaeva\bin\Debug\net8.0\zd1_Hojaeva.deps.json
+C:\Ходжаева\zd1_Hojaeva\zd1_Hojaeva\bin\Debug\net8.0\zd1_Hojaeva.runtimeconfig.json
+C:\Ходжаева\zd1_Hojaeva\zd1_Hojaeva\bin\Debug\net8.0\zd1_Hojaeva.dll
+C:\Ходжаева\zd1_Hojaeva\zd1_Hojaeva\bin\Debug\net8.0\zd1_Hojaeva.pdb
+C:\Ходжаева\zd1_Hojaeva\zd1_Hojaeva\obj\Debug\net8.0\zd1_Hojaeva.dll
+C:\Ходжаева\zd1_Hojaeva\zd1_Hojaeva\obj\Debug\net8.0\refint\zd1_Hojaeva.dll
+C:\Ходжаева\zd1_Hojaeva\zd1_Hojaeva\obj\Debug\net8.0\zd1_Hojaeva.pdb
+C:\Ходжаева\zd1_Hojaeva\zd1_Hojaeva\obj\Debug\net8.0\zd1_Hojaeva.genruntimeconfig.cache
+C:\Ходжаева\zd1_Hojaeva\zd1_Hojaeva\obj\Debug\net8.0\ref\zd1_Hojaeva.dll
