@@ -1,0 +1,61 @@
+﻿<Window x:Class="zd23_Hojaeva.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:zd23_Hojaeva"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="546" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Menu Grid.Row="0" Background="#F0F0F0" Padding="5">
+            <MenuItem Header="Меню">
+                <MenuItem Header="Открыть Магазин" Click="MenuItem_Click"/>
+                <MenuItem Header="Открыть Склад" Click="MenuItem_Click_1"/>
+            </MenuItem>
+        </Menu>
+
+        <StackPanel x:Name="PanelShop" Grid.Row="1" Margin="10" Visibility="Visible">
+            <TextBlock Text="Список товаров:"/>
+            <ListBox x:Name="LstProducts" Height="150" Margin="0,5,0,10" SelectionChanged="LstProducts_SelectionChanged"/>
+
+            <TextBlock Text="Выбранный товар:"/>
+            <TextBlock x:Name="LblSelectedProduct" Text="Не выбран" FontWeight="Bold" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Количество для покупки:"/>
+            <TextBox x:Name="TxtSellCount" Text="1" Margin="0,5,0,10"/>
+
+            <Button x:Name="BtnSell" Content="Купить" Height="30" Margin="0,0,0,5" Click="BtnSell_Click"/>
+            <Button x:Name="BtnClearEmpty" Content="Убрать пустые товары" Height="30" Margin="0,0,0,10" Click="BtnClearEmpty_Click"/>
+
+            <TextBlock x:Name="TxtStatusLog" Text="Статус: Готов" Foreground="Gray"/>
+        </StackPanel>
+
+        <StackPanel x:Name="PanelWarehouse" Grid.Row="1" Margin="10" Visibility="Collapsed">
+            <TextBlock Text="Текущая прибыль:" FontWeight="Bold"/>
+            <TextBlock x:Name="TxtTotalProfit" Text="0 руб." FontSize="20" Foreground="Green" Margin="0,5,0,15"/>
+
+            <TextBlock Text="Добавление товара:" FontWeight="Bold" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Введите название:"/>
+            <TextBox x:Name="TxtProductName" Text="" Margin="0,5,0,10"/>
+
+            <TextBlock Text="Введите цену:"/>
+            <TextBox x:Name="TxtProductPrice" Text="" Margin="0,5,0,10"/>
+
+            <TextBlock Text="Введите количество:"/>
+            <TextBox x:Name="TxtProductCount" Text="" Margin="0,5,0,15"/>
+
+            <Button x:Name="BtnAddProduct" Content="Добавить на склад" Height="30" Margin="0,0,0,20" Click="BtnAddProduct_Click"/>
+
+            <TextBlock Text="Проверить цель по прибыли (руб):"/>
+            <TextBox x:Name="TxtTargetProfit" Text="5000" Margin="0,5,0,5"/>
+            <Button x:Name="BtnCheckTarget" Content="Проверить цель" Height="25" Click="BtnCheckTarget_Click"/>
+            <TextBlock x:Name="TxtTargetStatus" Text="Цель не задана" Margin="0,5,0,0" Foreground="Gray"/>
+        </StackPanel>
+    </Grid>
+</Window>

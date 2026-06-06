@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "zd23_Hojaeva/1.0.0": {
+        "runtime": {
+          "zd23_Hojaeva.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "zd23_Hojaeva/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
