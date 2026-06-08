@@ -1,0 +1,15 @@
+C:\Ходжаева ПР-21\zd23_Hojaeva\zd23_Hojaeva\bin\Debug\zd23_Hojaeva.exe.config
+C:\Ходжаева ПР-21\zd23_Hojaeva\zd23_Hojaeva\bin\Debug\zd23_Hojaeva.exe
+C:\Ходжаева ПР-21\zd23_Hojaeva\zd23_Hojaeva\bin\Debug\zd23_Hojaeva.pdb
+C:\Ходжаева ПР-21\zd23_Hojaeva\zd23_Hojaeva\obj\Debug\zd23_Hojaeva.csproj.AssemblyReference.cache
+C:\Ходжаева ПР-21\zd23_Hojaeva\zd23_Hojaeva\obj\Debug\MainWindow.g.cs
+C:\Ходжаева ПР-21\zd23_Hojaeva\zd23_Hojaeva\obj\Debug\App.g.cs
+C:\Ходжаева ПР-21\zd23_Hojaeva\zd23_Hojaeva\obj\Debug\zd23_Hojaeva_MarkupCompile.cache
+C:\Ходжаева ПР-21\zd23_Hojaeva\zd23_Hojaeva\obj\Debug\zd23_Hojaeva_MarkupCompile.lref
+C:\Ходжаева ПР-21\zd23_Hojaeva\zd23_Hojaeva\obj\Debug\MainWindow.baml
+C:\Ходжаева ПР-21\zd23_Hojaeva\zd23_Hojaeva\obj\Debug\zd23_Hojaeva.g.resources
+C:\Ходжаева ПР-21\zd23_Hojaeva\zd23_Hojaeva\obj\Debug\zd23_Hojaeva.Properties.Resources.resources
+C:\Ходжаева ПР-21\zd23_Hojaeva\zd23_Hojaeva\obj\Debug\zd23_Hojaeva.csproj.GenerateResource.cache
+C:\Ходжаева ПР-21\zd23_Hojaeva\zd23_Hojaeva\obj\Debug\zd23_Hojaeva.csproj.CoreCompileInputs.cache
+C:\Ходжаева ПР-21\zd23_Hojaeva\zd23_Hojaeva\obj\Debug\zd23_Hojaeva.exe
+C:\Ходжаева ПР-21\zd23_Hojaeva\zd23_Hojaeva\obj\Debug\zd23_Hojaeva.pdb
